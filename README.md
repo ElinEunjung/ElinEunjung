@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Currently learning Microservices, DevOps (AWS), and Agile practices
 
 ---
-### 🛠 Tech Stack (Fullstack & Backend Focus)
+### Tech Stack (Fullstack & Backend Focus)
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

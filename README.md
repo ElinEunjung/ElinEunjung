@@ -39,5 +39,9 @@ Here are some ideas to get you started:
 #### Specialized Topics
 - Information Risk & Security
 - Programming & Quantum Computing
-- Bachelor Project *(2026, ongoing)*
+- Bachelor Project *(2026, planned)*
+
+---
+👉 See [full list of completed and ongoing courses](course.md) 
+
 

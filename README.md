@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍💻 Software Engineer in training (3rd-year programming student)
-- 🗂️ Portfolio: pinned repos below (`peata-v2`, `shors-algorithm-rsa`, `python-exam-project-pgr107`)
+- 🗂️ Portfolio: pinned repos below (`peata-v2`, `MonoPress`, `shors-algorithm-rsa`, `python-exam-project-pgr107`)
 - ✉️ Contact: eunjungp615@gmail.com | [LinkedIn](https://www.linkedin.com/in/elin615/)
 - **Latest Project:** [PEATA v2](https://github.com/ElinEunjung/peata-v2)
 - Currently learning Microservices, DevOps (AWS), and Agile practices

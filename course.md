@@ -14,7 +14,7 @@
 #### 2024 Autumn
 - PGR209 Backend Programming `A`
 - PG3302 Software Design `A`
-- PG6301 Web Development and API Design `completed`
+- PG6301 Web Development and API Design `B`
 
 #### 2025 Spring
 - PG3401 C Programming for Linux `completed`

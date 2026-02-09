@@ -24,7 +24,7 @@
 #### 2025 Autumn
 - PG3402 Microservices `ongoing`
 - PGR301 DevOps in the cloud `A`
-- PRO203 Agile Project `ongoing`
+- PRO203 Agile Project `A`
 
 #### 2026 Spring
 - PJ6100 Research methods `planned`

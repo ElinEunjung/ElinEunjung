@@ -66,14 +66,15 @@ Here are some ideas to get you started:
 #### Software Engineering & Web
 - Web Development & API Design
 - Software Design
-- Agile Project *(2025, ongoing)*
-- Microservices *(2025, ongoing)*
-- DevOps in the Cloud *(2025, ongoing)*
+- Agile Project
+- Microservices 
+- DevOps in the Cloud
 
 #### Specialized Topics
 - Information Risk & Security
 - Programming & Quantum Computing
-- Bachelor Project *(2026, planned)*
+- Research Methodology *(2026, ongoing)*
+- Bachelor Project *(2026, ongoing)*
 
 ---
 👉 See [full list of completed and ongoing courses](course.md) 

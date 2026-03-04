@@ -22,10 +22,10 @@
 - PGR213 Programming and Quantum Computing `A`
 
 #### 2025 Autumn
-- PG3402 Microservices `ongoing`
+- PG3402 Microservices `completed`
 - PGR301 DevOps in the cloud `A`
 - PRO203 Agile Project `A`
 
 #### 2026 Spring
-- PJ6100 Research methods `planned`
-- BAO304 Bachelor Project `planned`
+- PJ6100 Research methods `ongoing`
+- BAO304 Bachelor Project `ongoing`

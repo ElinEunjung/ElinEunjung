@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 - 👩‍💻 Software Engineer in training (3rd-year programming student)
 - 🗂️ Portfolio: pinned repos below (`peata-v2`, `MonoPress`, `shors-algorithm-rsa`, `DigitalEmotionDiary`, `python-exam-project-pgr107` , `final-exam-backend`)
 - ✉️ Contact: eunjungp615@gmail.com | [LinkedIn](https://www.linkedin.com/in/elin615/)
-- **Latest Project:** [PEATA v2](https://github.com/ElinEunjung/peata-v2)
+- **Latest Project:** [EchoCare2](https://github.com/ElinEunjung/EchoCare2)
 - Currently taking internship at Tieto Bachtech (in the part of bachlor project)
 
 ---
 ### Tech Stack (Fullstack)
 
 #### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)

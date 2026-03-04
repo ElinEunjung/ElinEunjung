@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🗂️ Portfolio: pinned repos below (`peata-v2`, `MonoPress`, `shors-algorithm-rsa`, `DigitalEmotionDiary`, `python-exam-project-pgr107` , `final-exam-backend`)
 - ✉️ Contact: eunjungp615@gmail.com | [LinkedIn](https://www.linkedin.com/in/elin615/)
 - **Latest Project:** [PEATA v2](https://github.com/ElinEunjung/peata-v2)
-- Currently learning Microservices, DevOps (AWS), and Agile practices
+- Currently taking internship at Tieto Bachtech (in the part of bachlor project)
 
 ---
 ### Tech Stack (Fullstack)

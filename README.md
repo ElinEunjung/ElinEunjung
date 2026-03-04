@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍💻 Software Engineer in training (3rd-year programming student)
-- 🗂️ Portfolio: pinned repos below (`peata-v2`, `MonoPress`, `shors-algorithm-rsa`, `DigitalEmotionDiary`, `python-exam-project-pgr107` , `final-exam-backend`)
+- 🗂️ Portfolio: pinned repos below (`EchoCare2`, `MonoPress`, `peata-v2`, `DigitalEmotionDiary`, `final-exam-backend`, `python-exam-project-pgr107`, `shors-algorithm-rsa`)
 - ✉️ Contact: eunjungp615@gmail.com | [LinkedIn](https://www.linkedin.com/in/elin615/)
 - **Latest Project:** [EchoCare2](https://github.com/ElinEunjung/EchoCare2)
 - Currently taking internship at Tieto Banktech (in the part of bachelor project)

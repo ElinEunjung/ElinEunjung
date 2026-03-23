@@ -22,7 +22,7 @@
 - PGR213 Programming and Quantum Computing `A`
 
 #### 2025 Autumn
-- PG3402 Microservices `completed`
+- PG3402 Microservices `A`
 - PGR301 DevOps in the cloud `A`
 - PRO203 Agile Project `A`
 

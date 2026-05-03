@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 #### Specialized Topics
 - Information Risk & Security
 - Programming & Quantum Computing
-- Research Methodology *(2026, ongoing)*
+- Research Methodology
 - Bachelor Project *(2026, ongoing)*
 
 ---

@@ -27,5 +27,5 @@
 - PRO203 Agile Project `A`
 
 #### 2026 Spring
-- PJ6100 Research methods `ongoing`
+- PJ6100 Research methods `A`
 - BAO304 Bachelor Project `ongoing`

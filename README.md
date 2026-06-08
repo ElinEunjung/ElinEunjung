@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 - Information Risk & Security
 - Programming & Quantum Computing
 - Research Methodology
-- Bachelor Project *(2026, ongoing)*
+- Bachelor Project
 
 ---
 👉 See [full list of completed and ongoing courses](course.md) 

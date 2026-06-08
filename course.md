@@ -28,4 +28,4 @@
 
 #### 2026 Spring
 - PJ6100 Research methods `A`
-- BAO304 Bachelor Project `ongoing`
+- BAO304 Bachelor Project `A`

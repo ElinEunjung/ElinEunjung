@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍💻 Software Engineer in training (3rd-year programming student)
+- 👩‍💻 Software Engineer open to work
 - 🗂️ Portfolio: pinned repos below (`EchoCare2`, `MonoPress`, `peata-v2`, `DigitalEmotionDiary`, `final-exam-backend`, `python-exam-project-pgr107`, `shors-algorithm-rsa`)
 - ✉️ Contact: eunjungp615@gmail.com | [LinkedIn](https://www.linkedin.com/in/elin615/)
 - **Latest Project:** [EchoCare2](https://github.com/ElinEunjung/EchoCare2)
-- Currently taking internship at Tieto Banktech (in the part of bachelor project)
 
 ---
 ### Tech Stack (Fullstack)

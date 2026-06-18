@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 - Bachelor Project
 
 ---
-👉 See [full list of completed and ongoing courses](course.md) 
+👉 See [full list of completed courses](course.md) 

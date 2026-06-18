@@ -28,4 +28,5 @@
 
 #### 2026 Spring
 - PJ6100 Research methods `A`
-- BAO304 Bachelor Project `A`
+- BAO304 Bachelor Project `A` <br>
+  *Self managed annual report solution for Tieto Banktech - A user-centered dashboard prototype*

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍💻 Software Engineer open to work
+- 👩‍💻 Software Engineer Open to Work
 - 🗂️ Portfolio: pinned repos below (`EchoCare2`, `MonoPress`, `peata-v2`, `DigitalEmotionDiary`, `final-exam-backend`, `python-exam-project-pgr107`, `shors-algorithm-rsa`)
 - ✉️ Contact: eunjungp615@gmail.com | [LinkedIn](https://www.linkedin.com/in/elin615/)
 - **Latest Project:** [EchoCare2](https://github.com/ElinEunjung/EchoCare2)
